@@ -11,7 +11,7 @@ Até o momento foram pensados os seguintes grupos:
 - [GT de Infraestrutura / Voluntários](#gt-de-infraestrutura--voluntários)
 - [GT de Parcerias / Patrocínio](#gt-de-parcerias--patrocínio)
 - [GT de Materiais / Insumos](#gt-de-materiais--insumos)
-- [GT de Temário / Acolhida](#gt-de-temário--acolhida)
+- [GT de Temário / Acolhida](#gt-de-temário--acolhida) - Danilo Silva Rodrigues
 - [GT de Coordenação / Financeiro](#gt-de-coordenação--financeiro)
 
 ## GT de Comunicação
