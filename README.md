@@ -7,6 +7,13 @@ A organização do Python Cerrado 2019 se dará por meio de uma estrutura estabe
 
 Até o momento foram pensados os seguintes grupos:
 
+- [GT de Comunicação](#gt-de-comunicação)
+- [GT de Infraestrutura / Voluntários](#gt-de-infraestrutura--voluntários)
+- [GT de Parcerias / Patrocínio](#gt-de-parcerias--patrocínio)
+- [GT de Materiais / Insumos](#gt-de-materiais--insumos)
+- [GT de Temário / Acolhida](#gt-de-temário--acolhida)
+- [GT de Coordenação / Financeiro](#gt-de-coordenação--financeiro)
+
 ## GT de Comunicação
 
 **OBJETIVO:** engajar o público-alvo interessado em participar do evento, munindo-os com informações gerais e atendendo-os de forma cordial e motivacional.
@@ -75,4 +82,18 @@ Responsável por conseguir palestrantes (convidados), convidar palestrantes e re
 * **Chamada Pública de Trabalhos:** promover/gerenciar a comunicação de *Chamada de Trabalhos*;
 * **Receber e Organizar Palestras/Workshops:** organizar e classificar as palestras enviadas;
 * **Programação do Evento:** organizar as palestras e workshops nas salas e horários possíveis, conforme o local do evento;
+
+## GT de Coordenação / Financeiro
+
+**OBJETIVO:** organizar as ações macro do evento, definindo diretrizes de ações aos coordenadores e auxiliando no fluxo financeiro do evento.
+
+Responsável para cobrar, orientar, motivar e estrutrar as ações dos coordenadores do evento, auxiliando-os em suas ações sejam bem-sucedidas, assistindo os custos, tarefas a fazer, e outras atribuições sob demanda. Espera-se também do coordenador uma boa representatividade do evento em outros locais onde se possa promover o evento e engajar o máximo de parcerias estratégicas.
+
+Dentre as diversas ações, espera-se:
+
+* **Gestão de Atividades:** gerenciamento de tarefas e seus devidos status junto aos coordenadores;
+* **Gestão de Custos:** gerir os custos do evento, auxiliando na melhor tomada de decisão em situações em que os recursos podem ou não ser suficientes;
+* **Comunicação de Equipe:** informar a toda a equipa os devidos status das atividades e motivar as atividades das equipes de forma contínua;
+* **Auxilio a todos os GTs:** trabalhar como auxiliar direto dos coordenadores em GTs que necessitarem de auxílio;
+
 
