@@ -1,4 +1,4 @@
-# organizacao-pycerrado2019
+# Python Cerrado 2019 - Organização
 Repositório de administração e organização da Python Cerrado 2019
 
 # Conceito Organizacional
