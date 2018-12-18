@@ -7,7 +7,7 @@ A organização do Python Cerrado 2019 se dará por meio de uma estrutura estabe
 
 Até o momento foram pensados os seguintes grupos:
 
-- [GT de Comunicação](#gt-de-comunicação)
+- [GT de Comunicação](#gt-de-comunicação) - Marcoaurélio Moreira Cardoso Rocha
 - [GT de Infraestrutura / Voluntários](#gt-de-infraestrutura--voluntários)
 - [GT de Parcerias / Patrocínio](#gt-de-parcerias--patrocínio)
 - [GT de Materiais / Insumos](#gt-de-materiais--insumos)
